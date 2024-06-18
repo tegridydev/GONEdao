@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "polygon-gone-balance",
+      "params": {
+        "address": "0x162539172b53E9a93b7d98Fb6c41682De558a320",
+        "symbol": "GONE",
+        "decimals": 18
+      }
+    },
+    "network": "137",
+    "addresses": [
+      "0xAddress1",
+      "0xAddress2"
+    ],
+    "snapshot": 11437846
+  }
+]

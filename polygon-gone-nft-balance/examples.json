@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "polygon-gone-nft-balance",
+      "params": {
+        "contractAddresses": [
+          "0x93cD9297940d20761Ba4a3d17Eae3da6dc47992A"
+        ],
+        "symbol": "GONERAT-PUNKS"
+      }
+    },
+    "network": "137",
+    "addresses": [
+      "0xAddress1",
+      "0xAddress2"
+    ],
+    "snapshot": 11437846
+  }
+]
